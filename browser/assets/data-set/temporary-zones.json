@@ -1,0 +1,425 @@
+[
+  {
+    "locations": [
+      {
+        "name": "Guardian, Caretaker, Overseer",
+        "attribute": "dark",
+        "lvl": 100,
+        "attackAttribute": 970,
+        "defAttribute": 820,
+        "lvlMobs": 100
+      },
+      {
+        "name": "Ruler of Castia (boss)",
+        "attribute": "dark",
+        "attackAttribute": 1120,
+        "defAttribute": 1020,
+        "lvlMobs": 100
+      },
+      {
+        "name": "Guardian, Caretaker, Overseer",
+        "attribute": "dark",
+        "attackAttribute": 1070,
+        "defAttribute": 920,
+        "lvlMobs": 105
+      },
+      {
+        "name": "Ruler of Castia (boss)",
+        "attribute": "dark",
+        "attackAttribute": 1220,
+        "defAttribute": 1120,
+        "lvlMobs": 105
+      },
+      {
+        "name": "Guardian, Caretaker, Overseer",
+        "attribute": "dark",
+        "attackAttribute": 1370,
+        "defAttribute": 1220,
+        "lvlMobs": 110
+      },
+      {
+        "name": "Ruler of Castia (boss)",
+        "attribute": "dark",
+        "attackAttribute": 1520,
+        "defAttribute": 1420,
+        "lvlMobs": 110
+      },
+      {
+        "name": "Guardian, Caretaker, Overseer",
+        "attribute": "dark",
+        "attackAttribute": 1820,
+        "defAttribute": 1670,
+        "lvlMobs": 115
+      },
+      {
+        "name": "Ruler of Castia (boss)",
+        "attribute": "dark",
+        "attackAttribute": 1970,
+        "defAttribute": 1870,
+        "lvlMobs": 115
+      },
+      {
+        "name": "Guardian, Caretaker, Overseer",
+        "attribute": "dark",
+        "attackAttribute": 2120,
+        "defAttribute": 1970,
+        "lvlMobs": 120
+      },
+      {
+        "name": "Ruler of Castia (boss)",
+        "attribute": "dark",
+        "attackAttribute": 2270,
+        "defAttribute": 2170,
+        "lvlMobs": 120
+      },
+      {
+        "name": "Guardian, Caretaker, Overseer",
+        "attribute": "earth",
+        "attackAttribute": 2570,
+        "defAttribute": 2420,
+        "lvlMobs": 125
+      },
+      {
+        "name": "Ruler of Castia (boss)",
+        "attribute": "earth",
+        "attackAttribute": 2720,
+        "defAttribute": 2620,
+        "lvlMobs": 125
+      },
+      {
+        "name": "Guardian, Caretaker, Overseer",
+        "attribute": "earth",
+        "attackAttribute": 2870,
+        "defAttribute": 2720,
+        "lvlMobs": 130
+      },
+      {
+        "name": "Ruler of Castia (boss)",
+        "attribute": "earth",
+        "attackAttribute": 3020,
+        "defAttribute": 2920,
+        "lvlMobs": 130
+      }
+    ],
+    "cycle": "daily"
+  },
+  {
+    "locations": [
+      {
+        "name": "Baylor",
+        "attribute": "dark",
+        "lvl": 105,
+        "attackAttribute": 1520,
+        "defAttribute": 1420,
+        "lvlMobs": 110
+      },
+      {
+        "name": "Baylor",
+        "attribute": "dark",
+        "attackAttribute": 1970,
+        "defAttribute": 1870,
+        "lvlMobs": 115
+      },
+      {
+        "name": "Baylor",
+        "attribute": "dark",
+        "attackAttribute": 2270,
+        "defAttribute": 2170,
+        "lvlMobs": 120
+      },
+      {
+        "name": "Baylor",
+        "attribute": "dark",
+        "attackAttribute": 2720,
+        "defAttribute": 2620,
+        "lvlMobs": 125
+      }
+    ],
+    "cycle": "daily"
+  },
+  {
+    "locations": [
+      {
+        "name": "Bosses",
+        "attribute": "earth, dark, holy, water, fire",
+        "lvl": 105,
+        "attackAttribute": 1520,
+        "defAttribute": 1420,
+        "lvlMobs": 110
+      },
+      {
+        "name": "Bosses",
+        "attribute": "earth, dark, earth, dark,dark",
+        "attackAttribute": 1970,
+        "defAttribute": 1870,
+        "lvlMobs": 115
+      },
+      {
+        "name": "Bosses",
+        "attribute": "water, fire, holy, dark, dark",
+        "attackAttribute": 2270,
+        "defAttribute": 2170,
+        "lvlMobs": 120
+      },
+      {
+        "name": "Bosses",
+        "attribute": "dark, dark, dark, wind, dark",
+        "attackAttribute": 2720,
+        "defAttribute": 2620,
+        "lvlMobs": 125
+      }
+    ],
+    "cycle": "daily"
+  },
+  {
+    "locations": [
+      {
+        "name": "Warriors of the Grey Shadow",
+        "attribute": "dark",
+        "lvl": 105,
+        "attackAttribute": 1370,
+        "defAttribute": 1220,
+        "lvlMobs": 110
+      },
+      {
+        "name": "Bosses",
+        "attribute": "dark",
+        "attackAttribute": 1520,
+        "defAttribute": 1420,
+        "lvlMobs": 110
+      },
+      {
+        "name": "Warriors of the Grey Shadow",
+        "attribute": "dark",
+        "attackAttribute": 1820,
+        "defAttribute": 1670,
+        "lvlMobs": 115
+      },
+      {
+        "name": "Bosses",
+        "attribute": "dark",
+        "attackAttribute": 1970,
+        "defAttribute": 1870,
+        "lvlMobs": 115
+      },
+      {
+        "name": "Warriors of the Grey Shadow",
+        "attribute": "dark",
+        "attackAttribute": 2120,
+        "defAttribute": 1970,
+        "lvlMobs": 120
+      },
+      {
+        "name": "Bosses",
+        "attribute": "dark",
+        "attackAttribute": 2270,
+        "defAttribute": 2170,
+        "lvlMobs": 120
+      },
+      {
+        "name": "Warriors of the Grey Shadow",
+        "attribute": "dark",
+        "attackAttribute": 2570,
+        "defAttribute": 2420,
+        "lvlMobs": 125
+      },
+      {
+        "name": "Bosses",
+        "attribute": "dark",
+        "attackAttribute": 2720,
+        "defAttribute": 2620,
+        "lvlMobs": 125
+      }
+    ],
+    "cycle": "daily"
+  },
+  {
+    "locations": [
+      {
+        "name": "Crotanion, Crofion",
+        "attribute": "water",
+        "lvl": 105,
+        "attackAttribute": 1370,
+        "defAttribute": 1220,
+        "lvlMobs": 110
+      },
+      {
+        "name": "Kroshana",
+        "attribute": "water",
+        "attackAttribute": 1520,
+        "defAttribute": 1420,
+        "lvlMobs": 110
+      },
+      {
+        "name": "Crotanion, Crofion",
+        "attribute": "water",
+        "attackAttribute": 1820,
+        "defAttribute": 1670,
+        "lvlMobs": 115
+      },
+      {
+        "name": "Kroshana",
+        "attribute": "water",
+        "attackAttribute": 1970,
+        "defAttribute": 1870,
+        "lvlMobs": 115
+      },
+      {
+        "name": "Crotanion, Crofion",
+        "attribute": "water",
+        "attackAttribute": 2120,
+        "defAttribute": 1970,
+        "lvlMobs": 120
+      },
+      {
+        "name": "Kroshana",
+        "attribute": "water",
+        "attackAttribute": 2270,
+        "defAttribute": 2170,
+        "lvlMobs": 120
+      },
+      {
+        "name": "Crotanion, Crofion",
+        "attribute": "water",
+        "attackAttribute": 2570,
+        "defAttribute": 2420,
+        "lvlMobs": 125
+      },
+      {
+        "name": "Kroshana",
+        "attribute": "water",
+        "attackAttribute": 2720,
+        "defAttribute": 2620,
+        "lvlMobs": 125
+      }
+    ],
+    "cycle": "daily"
+  },
+  {
+    "locations": [
+      {
+        "name": "Spirits",
+        "attribute": "earth, wind, water, fire",
+        "lvl": 105,
+        "attackAttribute": 1370,
+        "defAttribute": 1220,
+        "lvlMobs": 110
+      },
+      {
+        "name": "Spirits",
+        "attribute": "earth",
+        "attackAttribute": 1820,
+        "defAttribute": 1670,
+        "lvlMobs": 115
+      },
+      {
+        "name": "Spirits",
+        "attribute": "earth, wind, water, fire",
+        "attackAttribute": 2120,
+        "defAttribute": 1970,
+        "lvlMobs": 120
+      },
+      {
+        "name": "Spirits",
+        "attribute": "earth, wind, water, fire",
+        "attackAttribute": 2570,
+        "defAttribute": 2420,
+        "lvlMobs": 125
+      }
+    ],
+    "cycle": "daily"
+  },
+  {
+    "locations": [
+      {
+        "name": "Octavis",
+        "attribute": "dark",
+        "lvl": 107,
+        "attackAttribute": 2270,
+        "defAttribute": 2170,
+        "lvlMobs": 120
+      }
+    ],
+    "cycle": "week"
+  },
+  {
+    "locations": [
+      {
+        "name": "Tauti",
+        "attribute": "dark",
+        "lvl": 107,
+        "attackAttribute": 2270,
+        "defAttribute": 2170,
+        "lvlMobs": 120
+      }
+    ],
+    "cycle": "week"
+  },
+  {
+    "locations": [
+      {
+        "name": "Frinteza",
+        "attribute": "dark",
+        "lvl": 107,
+        "attackAttribute": 2270,
+        "defAttribute": 2170,
+        "lvlMobs": 120
+      }
+    ],
+    "cycle": "week"
+  },
+  {
+    "locations": [
+      {
+        "name": "Antaras",
+        "attribute": "earth",
+        "lvl": 112,
+        "attackAttribute": 2270,
+        "defAttribute": 2170,
+        "lvlMobs": 125
+      }
+    ],
+    "cycle": "week"
+  },
+  {
+    "locations": [
+      {
+        "name": "Rufes",
+        "attribute": "earth",
+        "lvl": 112,
+        "attackAttribute": 2270,
+        "defAttribute": 2170,
+        "lvlMobs": 120
+      },
+      {
+        "name": "Marea",
+        "attribute": "water",
+        "lvlMobs": 120
+      },
+      {
+        "name": "Kallor",
+        "attribute": "fire",
+        "lvlMobs": 120
+      },
+      {
+        "name": "Vertex",
+        "attribute": "wind",
+        "lvlMobs": 120
+      }
+    ],
+    "cycle": "week"
+  },
+  {
+    "locations": [
+      {
+        "name": "Klakies, Freya",
+        "attribute": "water",
+        "lvl": 115,
+        "attackAttribute": 2270,
+        "defAttribute": 2170,
+        "lvlMobs": 120
+      }
+    ],
+    "cycle": "week"
+  }
+]

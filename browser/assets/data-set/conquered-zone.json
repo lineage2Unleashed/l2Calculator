@@ -1,0 +1,117 @@
+[
+  {
+    "lvl": 112,
+    "attackAttribute": 1520,
+    "defAttribute": 1370,
+    "locations": [
+      {
+        "name": "Daryl's Water Source",
+        "attribute": "water",
+        "typeZone": "g"
+      }
+    ]
+  },
+  {
+    "lvl": 116,
+    "attackAttribute": 1820,
+    "defAttribute": 1670,
+    "locations": [
+      {
+        "name": "Daryl Fran's Water Source",
+        "attribute": "water",
+        "typeZone": "g"
+      },
+      {
+        "name": "Blazing Fields",
+        "attribute": "wind",
+        "typeZone": "g"
+      },
+      {
+        "name": "Zone 1: Asa 1",
+        "attribute": "wind",
+        "typeZone": "g"
+      },
+      {
+        "name": "Zone 2: Anima 1",
+        "attribute": "fire",
+        "typeZone": "g"
+      },
+      {
+        "name": "Zone 3: Knox 1",
+        "attribute": "earth",
+        "typeZone": "g"
+      }
+    ]
+  },
+  {
+    "lvl": 120,
+    "attackAttribute": 2120,
+    "defAttribute": 1970,
+    "locations": [
+      {
+        "name": "Garden of Flames",
+        "attribute": "water",
+        "typeZone": "g"
+      },
+      {
+        "name": "Zone 1: Asa 2",
+        "attribute": "wind",
+        "typeZone": "g"
+      },
+      {
+        "name": "Zone 2: Anima 2",
+        "attribute": "fire",
+        "typeZone": "g"
+      },
+      {
+        "name": "Zone 3: Knox 2",
+        "attribute": "earth",
+        "typeZone": "g"
+      }
+    ]
+  },
+  {
+    "lvl": 124,
+    "attackAttribute": 2420,
+    "defAttribute": 2270,
+    "locations": [
+      {
+        "name": "Zone 1: Asa 3",
+        "attribute": "wind",
+        "typeZone": "g"
+      },
+      {
+        "name": "Zone 2: Anima 3",
+        "attribute": "fire",
+        "typeZone": "g"
+      },
+      {
+        "name": "Zone 3: Knox 3",
+        "attribute": "earth",
+        "typeZone": "g"
+      },
+      {
+        "name": "Callida Hall",
+        "attribute": "wind",
+        "typeZone": "g"
+      },
+      {
+        "name": "Zone 1: Vita",
+        "attribute": "earth",
+        "typeZone": "g"
+      }
+    ]
+  },
+  {
+    "lvl": 128,
+    "attackAttribute": 2720,
+    "defAttribute": 2570,
+    "locations": [
+      {
+        "name": "Zone 2: Ignis",
+        "attribute": "fire",
+        "typeZone": "g"
+      }
+    ]
+  }
+]

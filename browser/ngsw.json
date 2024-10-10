@@ -1,0 +1,103 @@
+{
+  "configVersion": 1,
+  "timestamp": 1728604012474,
+  "index": "/index.csr.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/chunk-I74JARFC.js",
+        "/chunk-NDTC6DDU.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main-YZNTJV5O.js",
+        "/manifest.webmanifest",
+        "/polyfills-SCHOHYNV.js",
+        "/styles-HMX3VZSA.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/img/aden.png",
+        "/assets/img/coin.png",
+        "/assets/img/cursor.png",
+        "/assets/img/cursor2.png",
+        "/assets/img/hint_exp_in_day.png",
+        "/assets/img/main-bg.jpg",
+        "/assets/img/money.png",
+        "/assets/img/youtube.png",
+        "/icons/icon-128x128.png",
+        "/icons/icon-144x144.png",
+        "/icons/icon-152x152.png",
+        "/icons/icon-192x192.png",
+        "/icons/icon-384x384.png",
+        "/icons/icon-512x512.png",
+        "/icons/icon-72x72.png",
+        "/icons/icon-96x96.png",
+        "/media/cursor2-TJQBFYR7.png",
+        "/media/main-bg-C2BWJG3W.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/img/aden.png": "e90a40aea66578cc5c6fbd429a91ecaa75a2f799",
+    "/assets/img/coin.png": "5c674e0e011c5468e08c1b8b29f3f01dbb4f1e98",
+    "/assets/img/cursor.png": "073f2f22a7e01171d591ebeb33519fbb886c4a1a",
+    "/assets/img/cursor2.png": "eb950655d4cf8844fe41410881edf28043bf1ed3",
+    "/assets/img/hint_exp_in_day.png": "c49408e3eab13880fe3c4b36ee63bb593f0bb0bf",
+    "/assets/img/main-bg.jpg": "653946af5bb55a970b3466baeb64340d0d0d6a61",
+    "/assets/img/money.png": "85f71d7b6705520fcfc70c52762b5b12260fd691",
+    "/assets/img/youtube.png": "31d3d08ef830157d41f31861f32cb6012e7677bc",
+    "/chunk-I74JARFC.js": "8aa256ba30541e4c237937b25f0a156be149decb",
+    "/chunk-NDTC6DDU.js": "441047565b3db4d22ad3e6018aad93b735736dc6",
+    "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/index.html": "2772269741f04f995790d4e857ad3dc56cc16787",
+    "/main-YZNTJV5O.js": "7e67beedf3cb1b4157edc2b4c2a6aabbcb88065b",
+    "/manifest.webmanifest": "4a4d1484890978cf8c86280f4ac42e1e1e61f2fa",
+    "/media/cursor2-TJQBFYR7.png": "eb950655d4cf8844fe41410881edf28043bf1ed3",
+    "/media/main-bg-C2BWJG3W.jpg": "653946af5bb55a970b3466baeb64340d0d0d6a61",
+    "/polyfills-SCHOHYNV.js": "d45c76c5960bab3ace7fd6d211b9579456241f8a",
+    "/styles-HMX3VZSA.css": "677f6eeb7ae683d3e783ce2b0f5aa886436c22d5"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

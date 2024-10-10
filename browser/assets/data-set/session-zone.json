@@ -1,0 +1,314 @@
+[
+  {
+    "locations": [
+      {
+        "name": "Abandoned Coal Mine",
+        "attribute": "earth",
+        "lvl": 99,
+        "attackAttribute": 970,
+        "defAttribute": 820,
+        "lvlMobs": 101
+      }
+    ],
+    "cycle": "daily",
+    "available": {
+      "base": 60,
+      "extensions": 300
+    }
+  },
+  {
+    "locations": [
+      {
+        "name": "Emperor's Tomb",
+        "attribute": "dark",
+        "lvl": 105,
+        "attackAttribute": 1370,
+        "defAttribute": 1220,
+        "lvlMobs": 110
+      }
+    ],
+    "cycle": "daily",
+    "available": {
+      "base": 60,
+      "extensions": 0
+    }
+  },
+  {
+    "locations": [
+      {
+        "name": "Razorbane Innadril",
+        "attribute": "water",
+        "lvl": 105,
+        "attackAttribute": 1370,
+        "defAttribute": 1220,
+        "lvlMobs": 110
+      },
+      {
+        "name": "Field of Silence",
+        "attribute": "water",
+        "lvl": 110,
+        "attackAttribute": 1820,
+        "defAttribute": 1670,
+        "lvlMobs": 115
+      },
+      {
+        "name": "Shellfish Isle",
+        "attribute": "water",
+        "lvl": 115,
+        "attackAttribute": 2120,
+        "defAttribute": 1970,
+        "lvlMobs": 120
+      },
+      {
+        "name": "Alligator Island",
+        "attribute": "water",
+        "lvl": 120,
+        "attackAttribute": 2570,
+        "defAttribute": 2420,
+        "lvlMobs": 125
+      }
+    ],
+    "cycle": "daily",
+    "available": {
+      "base": 60,
+      "extensions": 300
+    }
+  },
+  {
+    "locations": [
+      {
+        "name": "Storm Island",
+        "attribute": "wind",
+        "lvl": 105,
+        "attackAttribute": 1370,
+        "defAttribute": 1220,
+        "lvlMobs": 110
+      },
+      {
+        "name": "Crystal Island",
+        "attribute": "wind",
+        "lvl": 110,
+        "attackAttribute": 1820,
+        "defAttribute": 1670,
+        "lvlMobs": 115
+      },
+      {
+        "name": "Alligator Island",
+        "attribute": "wind",
+        "lvl": 115,
+        "attackAttribute": 2120,
+        "defAttribute": 1970,
+        "lvlMobs": 120
+      },
+      {
+        "name": "Frost Island",
+        "attribute": "wind",
+        "lvl": 120,
+        "attackAttribute": 2570,
+        "defAttribute": 2420,
+        "lvlMobs": 125
+      }
+    ],
+    "cycle": "daily",
+    "available": {
+      "base": 60,
+      "extensions": 120
+    }
+  },
+  {
+    "locations": [
+      {
+        "name": "Primal Island",
+        "attribute": "earth",
+        "lvl": 105,
+        "attackAttribute": 1370,
+        "defAttribute": 1220,
+        "lvlMobs": 110
+      },
+      {
+        "name": "Scream Swamp",
+        "attribute": "earth",
+        "lvl": 110,
+        "attackAttribute": 1820,
+        "defAttribute": 1670,
+        "lvlMobs": 115
+      },
+      {
+        "name": "Hot Tops",
+        "attribute": "earth",
+        "lvl": 115,
+        "attackAttribute": 2120,
+        "defAttribute": 1970,
+        "lvlMobs": 120
+      },
+      {
+        "name": "Wasteland",
+        "attribute": "earth",
+        "lvl": 120,
+        "attackAttribute": 2570,
+        "defAttribute": 2420,
+        "lvlMobs": 125
+      }
+    ],
+    "cycle": "daily",
+    "available": {
+      "base": 60,
+      "extensions": 120
+    }
+  },
+  {
+    "locations": [
+      {
+        "name": "The Altar of Gold of the Island of Souls",
+        "attribute": "earth",
+        "lvl": 105,
+        "attackAttribute": 1370,
+        "defAttribute": 1220,
+        "lvlMobs": 110
+      },
+      {
+        "name": "Altar of Mimir of the Island of Souls",
+        "attribute": "earth",
+        "lvl": 110,
+        "attackAttribute": 1820,
+        "defAttribute": 1670,
+        "lvlMobs": 115
+      },
+      {
+        "name": "Looted Plains",
+        "attribute": "earth",
+        "lvl": 115,
+        "attackAttribute": 2120,
+        "defAttribute": 1970,
+        "lvlMobs": 120
+      },
+      {
+        "name": "Elf Forest",
+        "attribute": "earth",
+        "lvl": 120,
+        "attackAttribute": 2570,
+        "defAttribute": 2420,
+        "lvlMobs": 125
+      }
+    ],
+    "cycle": "daily",
+    "available": {
+      "base": 60,
+      "extensions": 120
+    }
+  },
+  {
+    "locations": [
+      {
+        "name": "Battlefield West",
+        "attribute": "dark",
+        "lvl": 110,
+        "attackAttribute": 1820,
+        "defAttribute": 1670,
+        "lvlMobs": 116
+      },
+      {
+        "name": "Battlefield East",
+        "attribute": "dark",
+        "lvl": 110,
+        "attackAttribute": 1970,
+        "defAttribute": 1820,
+        "lvlMobs": 118
+      },
+      {
+        "name": "Floor 1, Mimic (Chest)",
+        "attribute": "holy",
+        "lvl": 110,
+        "attackAttribute": 2120,
+        "defAttribute": 1970,
+        "lvlMobs": 120
+      },
+      {
+        "name": "Floor 2, Mimic (Chest)",
+        "attribute": "holy",
+        "lvl": 110,
+        "attackAttribute": 2270,
+        "defAttribute": 2120,
+        "lvlMobs": 122
+      },
+      {
+        "name": "Floor 3, Mimic (Chest)",
+        "attribute": "holy",
+        "lvl": 110,
+        "attackAttribute": 2420,
+        "defAttribute": 2270,
+        "lvlMobs": 124
+      },
+      {
+        "name": "Floor 4, Mimic (Chest)",
+        "attribute": "holy",
+        "lvl": 110,
+        "attackAttribute": 2570,
+        "defAttribute": 2420,
+        "lvlMobs": 126
+      },
+      {
+        "name": "Floor 5, Mimic (Chest)",
+        "attribute": "holy",
+        "lvl": 110,
+        "attackAttribute": 2720,
+        "defAttribute": 2570,
+        "lvlMobs": 128
+      },
+      {
+        "name": "Floor 2, Mimic (Chest)",
+        "attribute": "holy",
+        "lvl": 110,
+        "attackAttribute": 2870,
+        "defAttribute": 2720,
+        "lvlMobs": 130
+      }
+    ],
+    "cycle": "weekly",
+    "available": {
+      "base": 300,
+      "extensions": 300
+    }
+  },
+  {
+    "locations": [
+      {
+        "name": "Renegade Catacombs",
+        "attribute": "holy",
+        "lvl": 110,
+        "attackAttribute": 1820,
+        "defAttribute": 1670,
+        "lvlMobs": 115
+      },
+      {
+        "name": "Rebel Necropolis",
+        "attribute": "dark",
+        "lvl": 115,
+        "attackAttribute": 2120,
+        "defAttribute": 1970,
+        "lvlMobs": 120
+      },
+      {
+        "name": "Catacombs of the Forbidden Road",
+        "attribute": "holy",
+        "lvl": 120,
+        "attackAttribute": 2570,
+        "defAttribute": 2420,
+        "lvlMobs": 125
+      },
+      {
+        "name": "Necropolis of the Saints",
+        "attribute": "dark",
+        "lvl": 125,
+        "attackAttribute": 2870,
+        "defAttribute": 2720,
+        "lvlMobs": 130
+      }
+    ],
+    "cycle": "weekly",
+    "available": {
+      "base": 600,
+      "extensions": 0
+    }
+  }
+]

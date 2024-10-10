@@ -1,0 +1,122 @@
+[
+  {
+    "lvl": 125,
+    "attackAttribute": 2720,
+    "defAttribute": 2620,
+    "locations": [
+      {
+        "name": "Akrikhin Charon",
+        "attribute": "earth",
+        "typeZone": "boss"
+      },
+      {
+        "name": "Berserk Zetal",
+        "attribute": "fire",
+        "typeZone": "boss"
+      },
+      {
+        "name": "Witch Moira",
+        "attribute": "dark",
+        "typeZone": "boss"
+      },
+      {
+        "name": "Demon Benoma",
+        "attribute": "dark",
+        "typeZone": "boss"
+      },
+      {
+        "name": "Evil Valak",
+        "attribute": "dark",
+        "typeZone": "boss"
+      },
+      {
+        "name": "Avenger Alucio",
+        "attribute": "dark",
+        "typeZone": "boss"
+      },
+      {
+        "name": "Watcher Tristan",
+        "attribute": "water",
+        "typeZone": "boss"
+      }
+    ]
+  },
+  {
+    "lvl": 126,
+    "attackAttribute": 2720,
+    "defAttribute": 2620,
+    "locations": [
+      {
+        "name": "Mutated Stakato Croc (13:00, 16:00, 20:00)",
+        "attribute": "earth",
+        "typeZone": "boss"
+      }
+    ]
+  },
+  {
+    "lvl": 127,
+    "attackAttribute": 2870,
+    "defAttribute": 2770,
+    "locations": [
+      {
+        "name": "Anakim",
+        "attribute": "holy",
+        "typeZone": "boss"
+      },
+      {
+        "name": "Aigis",
+        "attribute": "dark",
+        "typeZone": "boss"
+      },
+      {
+        "name": "Giltia",
+        "attribute": "dark",
+        "typeZone": "boss"
+      },
+      {
+        "name": "Ant Queen",
+        "attribute": "earth",
+        "typeZone": "boss"
+      },
+      {
+        "name": "Lilith",
+        "attribute": "dark",
+        "typeZone": "boss"
+      },
+      {
+        "name": "Lord Ishka",
+        "attribute": "dark",
+        "typeZone": "boss"
+      },
+      {
+        "name": "Orfen",
+        "attribute": "earth",
+        "typeZone": "boss"
+      }
+    ]
+  },
+  {
+    "lvl": 128,
+    "attackAttribute": 2870,
+    "defAttribute": 2770,
+    "locations": [
+      {
+        "name": "Coatl",
+        "attribute": "water",
+        "typeZone": "boss"
+      }
+    ]
+  },
+  {
+    "lvl": 130,
+    "attackAttribute": 3020,
+    "defAttribute": 2920,
+    "locations": [
+      {
+        "name": "Valax",
+        "attribute": "fire",
+        "typeZone": "boss"
+      }
+    ]
+  }
+]

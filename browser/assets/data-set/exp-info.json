@@ -1,0 +1,137 @@
+[
+  {
+    "level": 106,
+    "totalExpBillion": 47,
+    "requiredExpToNextLvl": 31
+  },
+  {
+    "level": 107,
+    "totalExpBillion": 110,
+    "requiredExpToNextLvl": 63
+  },
+  {
+    "level": 108,
+    "totalExpBillion": 287,
+    "requiredExpToNextLvl": 177
+  },
+  {
+    "level": 109,
+    "totalExpBillion": 544,
+    "requiredExpToNextLvl": 258
+  },
+  {
+    "level": 110,
+    "totalExpBillion": 1199,
+    "requiredExpToNextLvl": 655
+  },
+  {
+    "level": 111,
+    "totalExpBillion": 2595,
+    "requiredExpToNextLvl": 1396
+  },
+  {
+    "level": 112,
+    "totalExpBillion": 4690,
+    "requiredExpToNextLvl": 2095
+  },
+  {
+    "level": 113,
+    "totalExpBillion": 8460,
+    "requiredExpToNextLvl": 3770
+  },
+  {
+    "level": 114,
+    "totalExpBillion": 13890,
+    "requiredExpToNextLvl": 5429
+  },
+  {
+    "level": 115,
+    "totalExpBillion": 21491,
+    "requiredExpToNextLvl": 7601
+  },
+  {
+    "level": 116,
+    "totalExpBillion": 32784,
+    "requiredExpToNextLvl": 11293
+  },
+  {
+    "level": 117,
+    "totalExpBillion": 48421,
+    "requiredExpToNextLvl": 15637
+  },
+  {
+    "level": 118,
+    "totalExpBillion": 68436,
+    "requiredExpToNextLvl": 20015
+  },
+  {
+    "level": 119,
+    "totalExpBillion": 93956,
+    "requiredExpToNextLvl": 25519
+  },
+  {
+    "level": 120,
+    "totalExpBillion": 126380,
+    "requiredExpToNextLvl": 32424
+  },
+  {
+    "level": 121,
+    "totalExpBillion": 212845,
+    "requiredExpToNextLvl": 86465
+  },
+  {
+    "level": 122,
+    "totalExpBillion": 316603,
+    "requiredExpToNextLvl": 103758
+  },
+  {
+    "level": 123,
+    "totalExpBillion": 441113,
+    "requiredExpToNextLvl": 124510
+  },
+  {
+    "level": 124,
+    "totalExpBillion": 590525,
+    "requiredExpToNextLvl": 149412
+  },
+  {
+    "level": 125,
+    "totalExpBillion": 742925,
+    "requiredExpToNextLvl": 152400
+  },
+  {
+    "level": 126,
+    "totalExpBillion": 1173232,
+    "requiredExpToNextLvl": 430306
+  },
+  {
+    "level": 127,
+    "totalExpBillion": 2205966,
+    "requiredExpToNextLvl": 1032735
+  },
+  {
+    "level": 128,
+    "totalExpBillion": 4684530,
+    "requiredExpToNextLvl": 2478564
+  },
+  {
+    "level": 129,
+    "totalExpBillion": 10633083,
+    "requiredExpToNextLvl": 5948553
+  },
+  {
+    "level": 130,
+    "totalExpBillion": 24909610,
+    "requiredExpToNextLvl": 14276527
+  },
+  {
+    "level": 131,
+    "totalExpBillion": 59173275,
+    "requiredExpToNextLvl": 34263665
+  },
+  {
+    "level": 132,
+    "totalExpBillion": 141406072,
+    "requiredExpToNextLvl": 82232796
+  }
+]

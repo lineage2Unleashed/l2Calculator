@@ -1,0 +1,280 @@
+[
+  {
+    "lvl": 102,
+    "attackAttribute": 970,
+    "defAttribute": 820,
+    "locations": [
+      {
+        "name": "Magic Megaliths of Belef",
+        "attribute": "earth",
+        "typeZone": "r"
+      },
+      {
+        "name": "Rebels' Quarry",
+        "attribute": "fire",
+        "typeZone": "r"
+      }
+    ]
+  },
+  {
+    "lvl": 104,
+    "attackAttribute": 970,
+    "defAttribute": 820,
+    "locations": [
+      {
+        "name": "Lost Hill",
+        "attribute": "earth",
+        "typeZone": "r"
+      }
+    ]
+  },
+  {
+    "lvl": 106,
+    "attackAttribute": 1070,
+    "defAttribute": 920,
+    "locations": [
+      {
+        "name": "Valley of Silence",
+        "attribute": "dark",
+        "typeZone": "r"
+      },
+      {
+        "name": "Ivory Tower Crater",
+        "attribute": "dark",
+        "typeZone": "r"
+      }
+    ]
+  },
+  {
+    "lvl": 108,
+    "attackAttribute": 1220,
+    "defAttribute": 1070,
+    "locations": [
+      {
+        "name": "Alligator Island",
+        "attribute": "water",
+        "typeZone": "r"
+      },
+      {
+        "name": "Tanor Canyon",
+        "attribute": "earth",
+        "typeZone": "u"
+      }
+    ]
+  },
+  {
+    "lvl": 110,
+    "attackAttribute": 1370,
+    "defAttribute": 1220,
+    "locations": [
+      {
+        "name": "Mirror Forest",
+        "attribute": "earth",
+        "typeZone": "r"
+      },
+      {
+        "name": "Fields of Silence",
+        "attribute": "earth",
+        "typeZone": "u"
+      },
+      {
+        "name": "Neutral Zone",
+        "attribute": "fire",
+        "typeZone": "g"
+      }
+    ]
+  },
+  {
+    "lvl": 112,
+    "attackAttribute": 1520,
+    "defAttribute": 1370,
+    "locations": [
+      {
+        "name": "Crystal Island",
+        "attribute": "dark",
+        "typeZone": "r"
+      },
+      {
+        "name": "Whispering Fields",
+        "attribute": "water",
+        "typeZone": "u"
+      },
+      {
+        "name": "Orc Outpost Kethra",
+        "attribute": "fire",
+        "typeZone": "g"
+      }
+    ]
+  },
+  {
+    "lvl": 114,
+    "attackAttribute": 1670,
+    "defAttribute": 1520,
+    "locations": [
+      {
+        "name": "Lizard Valley",
+        "attribute": "earth",
+        "typeZone": "r"
+      },
+      {
+        "name": "School of Power",
+        "attribute": "fire",
+        "typeZone": "u"
+      },
+      {
+        "name": "Varka Silenos Stronghold",
+        "attribute": "wind",
+        "typeZone": "g"
+      }
+    ]
+  },
+  {
+    "lvl": 116,
+    "attackAttribute": 1820,
+    "defAttribute": 1670,
+    "locations": [
+      {
+        "name": "Field of Strife",
+        "attribute": "earth",
+        "typeZone": "r"
+      },
+      {
+        "name": "Argos Wall",
+        "attribute": "earth",
+        "typeZone": "u"
+      },
+      {
+        "name": "Sea of Spores",
+        "attribute": "earth",
+        "typeZone": "g"
+      }
+    ]
+  },
+  {
+    "lvl": 118,
+    "attackAttribute": 1970,
+    "defAttribute": 1820,
+    "locations": [
+      {
+        "name": "Wasteland",
+        "attribute": "earth",
+        "typeZone": "r"
+      },
+      {
+        "name": "King of Serpents' Cemetery",
+        "attribute": "holy",
+        "typeZone": "u"
+      },
+      {
+        "name": "Wild Beast Pasture",
+        "attribute": "water",
+        "typeZone": "g"
+      }
+    ]
+  },
+  {
+    "lvl": 120,
+    "attackAttribute": 2120,
+    "defAttribute": 1970,
+    "locations": [
+      {
+        "name": "Valley of Saints",
+        "attribute": "holy",
+        "typeZone": "r"
+      },
+      {
+        "name": "Hot Springs",
+        "attribute": "earth",
+        "typeZone": "u"
+      },
+      {
+        "name": "Fortress of Breka",
+        "attribute": "earth",
+        "typeZone": "g"
+      },
+      {
+        "name": "Dragon Valley - west",
+        "attribute": "dark",
+        "typeZone": "g"
+      }
+    ]
+  },
+  {
+    "lvl": 122,
+    "attackAttribute": 2270,
+    "defAttribute": 2120,
+    "locations": [
+      {
+        "name": "Krum Swamp",
+        "attribute": "dark",
+        "typeZone": "u"
+      },
+      {
+        "name": "Ice Labyrinth",
+        "attribute": "water",
+        "typeZone": "u"
+      },
+      {
+        "name": "Dragon Valley - East",
+        "attribute": "earth",
+        "typeZone": "g"
+      }
+    ]
+  },
+  {
+    "lvl": 124,
+    "attackAttribute": 2420,
+    "defAttribute": 2270,
+    "locations": [
+      {
+        "name": "Rakshasa Camp",
+        "attribute": "fire",
+        "typeZone": "u"
+      },
+      {
+        "name": "Fafurion's Temple",
+        "attribute": "water",
+        "typeZone": "g"
+      }
+    ]
+  },
+  {
+    "lvl": 126,
+    "attackAttribute": 2570,
+    "defAttribute": 2420,
+    "locations": [
+      {
+        "name": "Shadow of the Tree of Life",
+        "attribute": "earth",
+        "typeZone": "u"
+      },
+      {
+        "name": "Lizardmen Camp Langk",
+        "attribute": "water",
+        "typeZone": "g"
+      },
+      {
+        "name": "Land of the Executed",
+        "attribute": "dark",
+        "typeZone": "g"
+      },
+      {
+        "name": "Marsh of Screams",
+        "attribute": "earth",
+        "typeZone": "g"
+      }
+    ]
+  },
+  {
+    "lvl": 128,
+    "attackAttribute": 2720,
+    "defAttribute": 2570,
+    "locations": [
+      {
+        "name": "Langk Lizardmen Temple",
+        "attribute": "water",
+        "typeZone": "g"
+      }
+    ]
+  }
+]

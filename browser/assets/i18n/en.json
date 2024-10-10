@@ -1,0 +1,142 @@
+{
+  "layout": {
+    "menu": {
+      "attribute_item": "Attribute",
+      "exchange_item": "Exchange",
+      "boots_item": "Boost",
+      "about": "About",
+      "exp_calc": "Exp. Calculator"
+    }
+  },
+  "boost": {
+    "title": "Boost Calculator",
+    "table": {
+      "price": "Price",
+      "itemName": "Item Name",
+      "priceItem": "Price",
+      "totalPDmg": "Total P. Dmg",
+      "totalMDmg": "Total M. Dmg",
+      "priceForOnePercentM": "Price 1% M. Dmg.",
+      "priceForOnePercentW": "Price 1% P. Dmg."
+    },
+    "tooltip": {
+      "str": "1 STR = 0,55% P. Attack",
+      "int": "1 INT = 0,55% M. Attack",
+      "totalPDmg": "Damage ratio ex. 10% = 1.10",
+      "totalMDmg": "Damage ratio ex. 10% = 1.10",
+      "attribute": "10 ATT = 1,5% Damage"
+    },
+    "pParams": "P. Params",
+    "mParams": "M. Params",
+    "pAttack": "P. Attack",
+    "pCriticalBasicAttack": "P. Critical Basic Attack",
+    "pCriticalSkillsAttack": "P. Critical Skills Attack",
+    "pSkillPower": "P. Skill Power",
+    "str": "STR",
+    "attribute": "Attribute",
+    "mAttack": "M. Attack",
+    "mSkillPower": "M. Skill Power",
+    "mCriticalRate": "M. Critical Rate",
+    "mSkillCritDamage": "M. Critical Skill Damage",
+    "int": "INT",
+    "damage": "Damage",
+    "pve": "PVE Dmg.",
+    "buttons": {
+      "save": "Save",
+      "cancel": "Cancel",
+      "ok": "ok"
+    }
+  },
+  "attribute": {
+    "title": "Attribute calculator",
+    "table": {
+      "lvl": "Level",
+      "attackAttribute": "Attack Attribute",
+      "defenseAttribute": "Defense Attribute",
+      "locations": "Locations",
+      "cycle": "Cycle",
+      "baseAvailable": "Base Available",
+      "extensionsAvailable": "Extensions Available",
+      "level_form": "Level:",
+      "attack_form": "Attack:",
+      "attribute_form": "Attribute:",
+      "boss": "Bosses",
+      "temporaryZones": "Temporary Zones"
+    }
+  },
+  "exchange": {
+    "title": "Exchange Calculator",
+    "conversion": "Conversion from {{fromCurrency}} to {{toCurrency}}: ",
+    "placeholder": {
+      "from": "From",
+      "to": "To",
+      "amount": "Amount",
+      "coins": "Coins",
+      "adens": "Adens",
+      "realMoney": "Money",
+      "priceCoinInMoney": "Price for 3200 coins in money",
+      "priceCoinInAden": "Price 1 coin in adena"
+    }
+  },
+  "modal": {
+    "removeBoostItem": {
+      "title": "Remove item",
+      "question": "Are you sure about removing?"
+    },
+    "buttons": {
+      "save": "Save",
+      "cancel": "Cancel",
+      "ok": "ok"
+    },
+    "hint-modal": {
+      "expInDayHintModalTitle": "Exp. in day",
+      "expInDayHintModalText": "Right bar -> Ranking -> Detailed info -> last date"
+    }
+  },
+  "validation": {
+    "max100percent": "Can't be more than 100%"
+  },
+  "expCalculation": {
+    "title": "Exp. Calculator",
+    "currentLevel": "Current level",
+    "expToNextLvl": "Exp. to next lvl",
+    "daysToNextLvl": "Approximately days to next lvl",
+    "currentPercent": "Current percent",
+    "expInDay": "Exp. in day",
+    "currentLvlHint": "Your current level",
+    "currentPercentHint": "Your current %",
+    "expInDayHint": "Billion exp in a day",
+    "level": "Level",
+    "totalExpBillion": "Total Exp. (Billion)",
+    "requiredExpToNextLvl": "Required Exp. to NextLvl (Billion)",
+    "titleCountedResult": "Counted result",
+    "expInfoTableTitle": "Table with Exp. Info",
+    "ShowTableExp": "Show table Exp.",
+    "HideTableExp": "Hide table Exp."
+  },
+  "about": {
+    "intro": "Welcome to our SPA application designed specifically for Lineage 2 players. Whether you're a new player or a seasoned veteran, our app provides essential tools to help you optimize your gameplay and make more informed decisions.",
+    "title": {
+      "keyFeatures": "Key Features",
+      "stayConnected": "Stay Connected!"
+    },
+    "firstFeatures": {
+      "title": "Attribute Damage Penalty Calculator",
+      "text": "Easily calculate the penalties your character faces when dealing with different attribute types and levels. This helps you adjust your gear and maximize damage output."
+    },
+    "secondFeatures": {
+      "title": "Currency Value Converter",
+      "text": "Planning to trade or buy items? Use our currency converter to instantly calculate the current market value of Lineage 2 coins and other currencies in-game."
+    },
+    "thirdFeatures": {
+      "title": "Optimal Gear Boost Calculator",
+      "text": "Unsure which gear upgrades will give you the best value for your Adena? Simply input your current gear, and our calculator will provide an analysis of which items offer the most damage boost per investment, showing you the cost of gaining that extra 1% damage."
+    },
+    "fourthFeatures": {
+      "title": "Experience calculator",
+      "text": "This calculator lets you quickly determine how many days are left until you reach the next level."
+    },
+    "stayConnected": "Want to get more tips and guides? Check out my YouTube channel for weekly updates on Lineage 2, including farming guides, leveling tips, and event details.",
+    "support": "Love the app? Support its development by buying me a coffee!"
+  }
+}
